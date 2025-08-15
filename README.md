@@ -1,7 +1,9 @@
 # Olá, me chamo Maycon! 👋
 
 🎓 Sou estudante do curso técnico em Desenvolvimento de Sistema no SENAI CIMATEC, e paralelamente estudo Java como minha linguagem principal, com foco em desenvolvimento back-end.
+
 🚀 Apaixonado por tecnologia, aprendizado contínuo e resolução de problemas. Busco constantemente aplicar os conhecimentos adquiridos em projetos práticos, visando desenvolver soluções limpas, funcionais e bem estruturadas.
+
 📈 Estou sempre em busca de novos desafios para colocar em prática o que aprendo e construir uma carreira sólida na área de desenvolvimento de software.
 
 ---
