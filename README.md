@@ -14,7 +14,7 @@
 - Spring Boot  
 - JPA/Hibernate  
 - Maven  
-- H2  
+- H2 Database
 - Spring Security  
 - JWT  
 - Flyway  
