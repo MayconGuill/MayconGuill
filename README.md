@@ -27,4 +27,4 @@
 
 ---
 
-Vamos conectar? [LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/maycon-vieira-350b19304/))
+Vamos conectar? [LinkedIn]([(https://www.linkedin.com/in/maycon-vieira-350b19304/)])
