@@ -2,9 +2,9 @@
 
 :mortar_board: Sou estudante do curso técnico em Desenvolvimento de Sistema no SENAI CIMATEC, e paralelamente estudo Java como minha linguagem principal.
 
-🚀 Sou movido por tecnologia, resolução de problemas e aprendizado contínuo. Busco evoluir um passo de cada vez, com código limpo, boas práticas e curiosidade constante.
+:rocket: Sou movido por tecnologia, resolução de problemas e aprendizado contínuo. Busco evoluir um passo de cada vez, com código limpo, boas práticas e curiosidade constante.
 
-📈 Estou sempre em busca de novos desafios para colocar em prática o que aprendo e construir uma carreira sólida na área de desenvolvimento de software.
+:chart_with_upwards_trend: Estou sempre em busca de novos desafios para colocar em prática o que aprendo e construir uma carreira sólida na área de desenvolvimento de software.
 
 ## Tecnologias que uso e estudo:
 ### Linguagem 
@@ -35,4 +35,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayconguill@gmail.com)](mailto:mayconguill@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-vieira-350b19304/)
 
-📈 Buscando minha primeira oportunidade como desenvolvedor Java.
+:chart_with_upwards_trend: Buscando minha primeira oportunidade como desenvolvedor Java.
