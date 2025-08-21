@@ -2,7 +2,7 @@
 
 :mortar_board: Sou estudante do curso técnico em Desenvolvimento de Sistema no SENAI CIMATEC, e paralelamente estudo Java como minha linguagem principal.
 
-:rocket: Sou movido por tecnologia, resolução de problemas e aprendizado contínuo. Busco evoluir um passo de cada vez, com código limpo, boas práticas e curiosidade constante.
+:rocket: Movido por tecnologia, resolução de problemas e aprendizado contínuo. Busco evoluir um passo de cada vez, com código limpo, boas práticas e curiosidade constante.
 
 :chart_with_upwards_trend: Estou sempre em busca de novos desafios para colocar em prática o que aprendo e construir uma carreira sólida na área de desenvolvimento de software.
 
