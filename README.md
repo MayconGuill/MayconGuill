@@ -1,45 +1,81 @@
-### Olá, me chamo Maycon! 👋
+# Olá, eu sou Maycon! 👋
 
-:mortar_board: Sou estudante do curso técnico em Desenvolvimento de Sistema no SENAI CIMATEC, e paralelamente estudo Java como minha linguagem principal.
+🎯 **Desenvolvedor Backend Júnior | Java & Spring Boot**
 
-:rocket: Movido por tecnologia, resolução de problemas e aprendizado contínuo. Busco evoluir um passo de cada vez, com código limpo, boas práticas e curiosidade constante.
+Sou Técnico em Desenvolvimento de Sistemas pelo **SENAI CIMATEC** e tenho como foco o desenvolvimento Backend com **Java e Spring Boot**.
 
-:chart_with_upwards_trend: Estou sempre em busca de novos desafios para colocar em prática o que aprendo e construir uma carreira sólida na área de desenvolvimento de software.
+Tenho experiência prática com desenvolvimento de **APIs REST**, bancos de dados relacionais, testes automatizados e aplicação de princípios de **DDD, SOLID e Arquitetura Hexagonal (Ports & Adapters)**.
 
-## Tecnologias que uso e estudo:
-### Linguagens 
+Também possuo conhecimentos em **C# e ASP.NET Core**.
+
+Busco minha primeira oportunidade profissional como **Desenvolvedor Backend**, enquanto continuo aprimorando minhas habilidades através de projetos práticos e estudos contínuos.
+
+## 🛠️ Tecnologias
+
+### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Ferramentas
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Arquitetura e Desenvolvimento
 
-### Testes
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logoColor=white)
+- APIs REST
+- Domain-Driven Design (DDD)
+- Arquitetura Hexagonal
+- Ports & Adapters
+- SOLID
+- DTOs e mapeamento
+- OpenAPI / Swagger
 
-### Banco de Dados
+### Bancos de Dados
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2%20Database-1C75B9?style=for-the-badge&logoColor=white)
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
+### Testes
 
-## Portfolio
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayconGuill)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=mockito&logoColor=white)
 
-## Contatos:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayconguill@gmail.com)](mailto:mayconguill@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-vieira-350b19304/)
+- Testes unitários
+- Testes de integração
+- Testcontainers
 
-:chart_with_upwards_trend: Buscando minha primeira oportunidade como desenvolvedor Java.
+### Ferramentas e DevOps
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Segurança
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### GameDeals
+
+Projeto pessoal em desenvolvimento com o objetivo de centralizar promoções de jogos de diferentes lojas digitais.
+
+A proposta é utilizar o projeto para aprofundar conhecimentos em desenvolvimento Backend, integração com APIs, persistência de dados, arquitetura e automação.
+
+🔗 Em desenvolvimento
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Backend com Java e Spring Boot
+- Arquitetura de software
+- Domain-Driven Design
+- Testes automatizados
+- Integração entre serviços e APIs
+- Boas práticas de desenvolvimento
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-vieira-350b19304/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayconguill@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayconGuill)
